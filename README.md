@@ -48,8 +48,8 @@ A geometry **optimizer** sits on top of the solver. You give it target curves (e
             │  Mistral LLM │ ────────────────▶ │  local search  │
             │  (warm start)│                   │ (pattern srch) │
             └──────────────┘                   └───────┬────────┘
-                   ▲                                    │ candidate geometry
-        metrics +  │                                    ▼
+                   ▲                                   │ candidate geometry
+        metrics +  │                                   ▼
         history    │                          ┌──────────────────────┐
                    └───────────────────────── │  four-bar solver =   │
                        loss (ground truth)    │  the ONLY judge      │
