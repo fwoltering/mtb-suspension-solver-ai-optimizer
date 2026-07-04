@@ -16,7 +16,8 @@ deterministic physics solver validates every iteration as ground truth.**
 
 **[ demo video — add link ]**
 
-**Try it live:** https://mtb-suspension-calculator-ai-optimi.vercel.app/
+**[Try it live ➔](https://mtb-suspension-calculator-ai-optimi.vercel.app/)**
+
 The deployment is password-protected — password available on request.
 
 ![Solver + optimizer screenshot](docs/screenshot.png) <!-- Felix: add a screenshot to docs/ -->
