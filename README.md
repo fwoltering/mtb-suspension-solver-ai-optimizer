@@ -51,8 +51,8 @@ A geometry **optimizer** sits on top of the solver. You give it target curves (e
                    ▲                                    │ candidate geometry
         metrics +  │                                    ▼
         history    │                          ┌──────────────────────┐
-                   └───────────────────────── │  four-bar solver =    │
-                       loss (ground truth)    │  the ONLY judge       │
+                   └───────────────────────── │  four-bar solver =   │
+                       loss (ground truth)    │  the ONLY judge      │
                                               └──────────────────────┘
 ```
 
