@@ -129,7 +129,10 @@ Built with an AI-assisted workflow (Claude Code).
       (e.g. "leverage 2.4–2.8"), packaging/collision penalties
 - [ ] **Multi-objective / Pareto front** — return several trade-off candidates, not one
 - [ ] **Surrogate model** to cut solver calls per LLM iteration (ML-accelerated search)
-- [ ] **More rear-end layouts** — single pivot, twin-link/VPP, high-pivot with idler
+- [ ] **More kinematic layouts** — single pivot, twin-link/VPP, high-pivot with idler
+- [ ] **Performance** — faster per-frame solve, smoother travel animation and live dragging
+      on lower-end hardware
+- [ ] **Bug fixes & stability** — tighten edge cases in the solver/optimizer as they turn up
 - [ ] Save/load & compare geometries; benchmark vs. *Linkage X3*
 - [ ] Spring/damper model (rate, sag, force curve)
 
