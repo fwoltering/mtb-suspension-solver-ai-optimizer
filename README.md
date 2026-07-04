@@ -137,9 +137,8 @@ Built with an AI-assisted workflow (Claude Code).
 
 ## Context
 
-This is a portfolio project demonstrating where **deep simulation meets AI deployment**:
-turning an "interesting model" into a tool an engineer would actually open. The full source
-is in a private repository; this repo presents the project (write-up, demo, architecture).
-Happy to walk through the code and where I'd take it for an industrial-simulation use case.
+This is a portfolio project demonstrating where **deep simulation meets AI deployment**: turning an "interesting model" into a tool an engineer would actually open. The full source is in a private repository; this repo presents the project overview (documentation, demo, architecture). 
 
-— **Felix Woltering** · vehicle-development engineer (CFD/FEM/multi-physics) moving into AI
+Ideally, this will eventually transition into a live application for production environments. Happy to walk through the code and where I would take it for an industrial simulation use case.
+
+**Felix Woltering** · vehicle development engineer (CFD / FEM / multiphysics) moving into AI
